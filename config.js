@@ -9,9 +9,9 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------VISHWA---------------------------------------
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SESSION HERE",
+SESSION_ID: process.env.SESSION_ID || "jMgAAQYR#UplH7Ny8gUm8T9vPv7JlxmnzYXd9kCT3Ls8Y9K2O5dY",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
@@ -23,7 +23,7 @@ PREFIX: process.env.PREFIX || ".",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
-OWNER_REACT: process.env.OWNER_REACT || "false",
+OWNER_REACT: process.env.OWNER_REACT || "true",
 BOT_NAME: process.env.BOT_NAME || "SOURON-MD",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
