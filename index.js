@@ -105,7 +105,7 @@ https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1
 *Thanks For Supporting us♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *✱╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺✱*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/WF67wzY/738.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/Fhz6td0/b42377538197b64c.jpg` }, caption: up })
 
 }
 })
