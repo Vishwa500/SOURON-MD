@@ -96,7 +96,7 @@ let up = `
 ━━━━━━━━━━━━━━━━━━━
 > *ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴜʙᴢᴇʀᴏ ᴜᴘᴅᴀᴛᴇs*
 
-https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1
+*https://whatsapp.com/channel/0029Vaxq8k8L7UVXgIT36A2n*
 
 ━━━━━━━━━━━━━━━━━━━━━
 
