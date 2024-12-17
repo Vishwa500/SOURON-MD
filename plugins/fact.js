@@ -1,24 +1,4 @@
-/*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
-
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
-
-
-
-
-
+/
 const axios = require('axios');
 const { cmd } = require('../command');
 
@@ -36,7 +16,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const fact = response.data.text;
 
         const funFact = `
-🤣 *SUBZERO RANDOM FACT* 🤣
+🤣 * SOURON RANDOM FACT* 🤣
 
 ${fact}
 
@@ -68,7 +48,7 @@ async (conn, mek, m, { from, q, reply }) => {
 *${joke.setup}*
 ${joke.punchline} 😄
 
-> *POWERED BY MR FRANK*
+> *POWERED BY VISHWA AND SADEEPA*
 `;
         return reply(jokeMessage);
     } catch (e) {
