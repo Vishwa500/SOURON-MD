@@ -1,20 +1,3 @@
-/*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
-
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
-
 
 
 
@@ -35,16 +18,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ᴍʀ ғʀᴀɴᴋ ᴏғᴄ*
+*|* *𝐯𝐢𝐬𝐡𝐰𝐚 𝐚𝐧𝐝 𝐬𝐚𝐝𝐞𝐞𝐩𝐚*
 
 > *SUBZERO REPO:*
-*|* *https://github.com/zwsyntaxr/SUBZERO-MD*
+*|* *https://github.com/Vishwa500/SOURON-MD*
 
 > *SUPPORT GROUP:*
 *|* *https://whatsapp.com/channel/*
 *╰──────────────●●►*
 
-> *CREATED BY MR FRANK*
+> *CREATED BY VISHWA AND SADEEPA*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -54,15 +37,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363321386877609@newsletter',
-      newsletterName: "ᴋᴇʀᴍ ᴄʜᴀɴɴᴇʟ",
+      newsletterName: "SUORON ᴄʜᴀɴɴᴇʟ",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'Kᴇʀᴍ_Mᴅ-V4',
+title: 'SOURON-MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/ZwSyntax/SUBZERO-MD" ,
-thumbnailUrl: "https://files.catbox.moe/osriwc.jpg" ,
+sourceUrl: "https://github.com/Vishwa500/SOURON-MD" ,
+thumbnailUrl: "https://i.ibb.co/WF67wzY/738.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
