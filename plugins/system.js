@@ -1,22 +1,3 @@
-/*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
-
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
-
-
-
 
 
 const config = require('../config')
@@ -25,7 +6,7 @@ const os = require("os")
 const {runtime} = require('../lib/functions')
 cmd({
     pattern: "system",
-    react: "♠️",
+    react: "☠",
     alias: ["uptime","status","runtime"],
     desc: "cheack uptime",
     category: "main",
@@ -42,7 +23,7 @@ let status = `*╭──────────●●►*
 
 *_HOSTNAME:➠_* ${os.hostname()}
 
-*_OWNER:➠_* *MR FRANK*
+*_OWNER:➠_* *VISHWA AND SANDEEPA*
 *╰──────────●●►*
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:`${status}`},{quoted:mek})
