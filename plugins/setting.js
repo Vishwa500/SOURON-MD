@@ -1,19 +1,3 @@
-/*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
-
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 
 
@@ -48,7 +32,7 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 
 try{
-let madeSetting =`*╭────⚃* *SETTINGS* *⚃*
+let madeSetting =`*╭────⚃* * SOURON-MD SETTINGS* *⚃*
 *┊* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┊* *♾️ MODE:* ➠ ${config.MODE} 
 *┊* *♾️ AUTO_VOICE:* ➠ ${config.AUTO_VOICE} 
@@ -65,7 +49,7 @@ let madeSetting =`*╭────⚃* *SETTINGS* *⚃*
 *┊* *♾️ OWNER_REACT:* ➠ ${config.OWNER_REACT} 
 *┊* *♾️ BOT_NAME:* ➠ ${config.BOT_NAME}
 
-> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ
+> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴠɪꜱʜᴡᴀ
 *╰═════════════⚃*
 `
 
