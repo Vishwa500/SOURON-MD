@@ -1,19 +1,3 @@
-/*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
-
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 
 
@@ -23,9 +7,9 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 cmd({
 
-    pattern: "menu3",
+    pattern: "menu",
 
-    react: "🐊",
+    react: "🔍",
 
     alias: ["panel","list","commands"],
 
@@ -54,7 +38,8 @@ let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
       *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴜʙᴢᴇʀᴏ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋɢ ᴛᴇᴄʜ👨🏻‍💻*
+*ᴄʀᴇᴀᴛᴇᴅ ʙʏ vishwa and sadeepa☠*
+
 
 
 *╭──❮ DOWNLOAD COMMANDS ❯*
