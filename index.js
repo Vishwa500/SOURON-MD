@@ -1,19 +1,4 @@
-/*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 const {
 default: makeWASocket,
@@ -65,7 +50,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("ℹ️ CONNECTING SUBZERO MD🌟..");
+console.log("🤐 CONNECTING SOURON-MD");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -93,36 +78,34 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SUBZEROCONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SOURON-MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*╺╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺╺◈*
+*SOURON-MD CONNECTED ✅*
 
-> *❄️ sᴜʙᴢᴇʀᴏ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ғᴏʀ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ ( xᴇʀᴏ ᴄᴏᴅᴇʀs ᴄᴇᴏ ❄️*
+> *❮ꜱᴏᴜʀᴏɴ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟ ᴡʜᴀᴛꜱᴀᴘᴘ❯*
 
 *━━━━━━━━━━━━━━━━━━━ 
 
-➮ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ : sᴜʙᴢᴇʀᴏ ᴡ.ᴀ ʙᴏᴛ
-➮ 📂 ʀᴇᴘᴏ -  https://github.com/ZwSyntax/SUBZERO-MD
-➮ 📃 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ - ᴀ ᴍᴜʟᴛɪ ᴛᴀsᴋ ᴡ.ᴀ ʙɪᴛ
-➮ 🛡️ ᴅᴇᴠᴇʟᴏᴘᴇʀ - ᴍʀ ғʀᴀɴᴋ ᴏғᴄ
-➮ 🌐 ᴡᴇʙsɪᴛᴇ  - https://mrfrankinc.vercel.app
+➮ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ : ꜱᴏᴜʀᴏɴ-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
+➮ 📂 ʀᴇᴘᴏ -  https://github.com/Vishwa500/SOURON-MD
+➮ 📃 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ - ᴍᴜᴛɪᴅɪᴠᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
+➮ 🛡️ ᴅᴇᴠᴇʟᴏᴘᴇʀ - ᴠɪꜱʜᴡᴀ ᴀɴᴅ ꜱᴀᴅᴇᴇᴘᴀ
+
 
 ━━━━━━━━━━━━━━━━━━━
-> *❄️ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴜʙᴢᴇʀᴏ ᴜᴘᴅᴀᴛᴇs *
+> *ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴜʙᴢᴇʀᴏ ᴜᴘᴅᴀᴛᴇs*
 
-https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1
 
 ━━━━━━━━━━━━━━━━━━━━━
-> *❄️ ᴠɪsɪᴛ ᴏᴜʀ ᴡᴇʙsɪᴛᴇ*
 
-https://mrfrankinc.vercel.app
 
 
 *Thanks For Supporting us♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *✱╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺✱*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/9fVpSkn7/IMG-20241213-WA0012.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/WF67wzY/738.jpg` }, caption: up })
 
 }
 })
@@ -289,7 +272,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SUBZERO MD STARTED ✅");
+res.send("HEY, SOURON-MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
