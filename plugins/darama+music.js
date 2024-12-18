@@ -23,7 +23,7 @@ const url = data.url
     
     
 let desc = `
-❮❮❮ *SOURON-MD MUSⵊC DOWNLOADⵊNG* ❯❯
+❮❮❮ *ᴍɪᴄᴋᴇʏ-ᴍᴅ ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ* ❯❯
 
 🎵 *MUSⵊC FOUND!* 
 
@@ -35,7 +35,7 @@ let desc = `
 
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *SOURON-MD WA BOT* 
+> *ᴍɪᴄᴋᴇʏ-ᴍᴅ* 
 
 > *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴠɪꜱʜᴡᴀ ᴀɴᴅ ꜱᴀᴅᴇᴇᴘᴀ* 
 `
@@ -76,7 +76,7 @@ const url = data.url
     
     
 let desc = `
-❮❮❮ *SOURON-MD VⵊDEO DOWNLOADⵊNG* ❯❯❯
+❮❮❮ *ᴍɪᴄᴋᴇʏ-ᴍᴅ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴅᴇʀ* ❯❯❯
 
 🎥 *VⵊDEO FOUND!* 
 
@@ -88,7 +88,7 @@ let desc = `
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *SOURON-MD WHATSAPP BOT* 
+> *ᴍɪᴄᴋᴇʏ-ᴍᴅ* 
 
 > *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴠɪꜱʜᴡᴀ ᴀɴᴅ ꜱᴀᴅᴇᴇᴘᴀ*
 `
