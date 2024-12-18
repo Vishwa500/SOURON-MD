@@ -32,7 +32,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬SOURON-MD MOVIE SERCH🎬*
+*🎬MICKEY-MD MOVIE SERCH🎬*
 
 *❯ᴛɪᴛʟᴇ:* ${data.Title}
 
@@ -67,7 +67,7 @@ cmd({
 
         await conn.sendMessage(from, {
             image: { url: imageUrl },
-            caption: `${movieInfo}\n> CREATED BY KG TECH`
+            caption: `${movieInfo}\n> 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐯𝐢𝐬𝐡𝐰𝐚`
         }, { quoted: mek });
     } catch (e) {
         console.error(e);
