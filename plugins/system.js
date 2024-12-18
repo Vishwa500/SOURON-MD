@@ -15,7 +15,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let status = `*╭──────────●●►*
-*SUBZERO UPTIME LIST↷*
+*𝐌𝐈𝐂𝐊𝐄𝐘-𝐌𝐃 UPTIME LIST↷*
 
 *_UPTIME:➠_*  ${runtime(process.uptime())}
 
