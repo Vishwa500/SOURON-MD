@@ -32,7 +32,7 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 
 try{
-let madeSetting =`*╭────⚃* * SOURON-MD SETTINGS* *⚃*
+let madeSetting =`*╭────⚃* * 𝐌𝐈𝐂𝐊𝐑𝐘-𝐌𝐃 SETTINGS* *⚃*
 *┊* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┊* *♾️ MODE:* ➠ ${config.MODE} 
 *┊* *♾️ AUTO_VOICE:* ➠ ${config.AUTO_VOICE} 
