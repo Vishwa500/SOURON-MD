@@ -1,17 +1,17 @@
 /*???????????????????????????
-    ?�Уңϣʣţã� �Σ��ͣ�:
-    �ӣգ£ڣţң� �ףȣ��ԣӣ��У� �ͣ� �£ϣ�
+    ?£Ð£Ò£Ï£Ê£Å£Ã£Ô £Î£Á£Í£Å:
+    £Ó£Õ£Â£Ú£Å£Ò£Ï £×£È£Á£Ô£Ó£Á£Ð£Ð £Í£Ä £Â£Ï£Ô
     
-    ?�ģţ֣ţ̣ϣУţ�
-     �ͣ� �ƣң��Σ� 
+    ?£Ä£Å£Ö£Å£Ì£Ï£Ð£Å£Ò
+     £Í£Ò £Æ£Ò£Á£Î£Ë 
      
-    ? �ͣ� �ԣţ���
-     �أţң� �ãϣģţң�
+    ? £Í£Ù £Ô£Å£Á£Í
+     £Ø£Å£Ò£Ï £Ã£Ï£Ä£Å£Ò£Ó
      
-    ? �ϣգ� �ףţ£ӣɣԣ�
+    ? £Ï£Õ£Ò £×£Å£Â£Ó£É£Ô£Å
      https://github.com/ZwSyntax/SUBZERO-MD
 
-? �ԣң� �ģţãң٣УԣɣΣ� �ɣ� �٣ϣ� �ã���?
+? £Ô£Ò£Ù £Ä£Å£Ã£Ò£Ù£Ð£Ô£É£Î£Ç £É£Æ £Ù£Ï£Õ £Ã£Á£Î?
 
 ????????????????????????????????*/
 
@@ -21,7 +21,7 @@ const { cmd } = require('../command');
 
 cmd({
     pattern: "owner",
-    react: "👑", // Reaction emoji when the command is triggered
+    react: "ðŸ‘‘", // Reaction emoji when the command is triggered
     alias: ["silent", "kerm"],
     desc: "Get owner number",
     category: "main",
@@ -30,8 +30,8 @@ cmd({
 async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
-        const ownerNumber = '+263719647303'; // Replace this with the actual owner number
-        const ownerName = '?? ?????'; // Replace this with the owner's name
+        const ownerNumber = '+94765684096'; // Replace this with the actual owner number
+        const ownerName = '*ᴠɪꜱʜᴡᴀ ᴀɴᴅ ꜱᴀᴅᴇᴇᴘᴀ*'; // Replace this with the owner's name
         const organization = '???? ?????s'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
@@ -61,6 +61,6 @@ async (conn, mek, m, { from }) => {
 
     } catch (error) {
         console.error(error);
-        await conn.sendMessage(from, { text: 'Sorry, there was an error fetching the owner contact.' }, { quoted: mek });
-    }
+        await conn.sendMessage(from, { text: 'Sorry, there was an error fetching the owner contact.' }, { quoted: mekÂ });
+Â Â Â Â }
 });
