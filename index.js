@@ -50,7 +50,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("🤐 CONNECTING SOURON-MD");
+console.log("🤐 CONNECTING MICKEY-MD ");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -78,23 +78,23 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SOURON-MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('MICKEY-MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*SOURON-MD CONNECTED ✅*
+*𝐌𝐈𝐂𝐊𝐄𝐘-𝐌𝐃 𝐖𝐀 𝐁𝐎𝐓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 𝐖𝐀𝐇𝐓𝐒𝐀𝐏𝐏👋*
 
-> *❮ꜱᴏᴜʀᴏɴ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟ ᴡʜᴀᴛꜱᴀᴘᴘ❯*
+> *❮ᴍɪᴄᴋᴇʏ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟ ᴡʜᴀᴛꜱᴀᴘᴘ❯*
 
 *━━━━━━━━━━━━━━━━━━━ 
 
 ➮ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ : ꜱᴏᴜʀᴏɴ-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
-➮ 📂 ʀᴇᴘᴏ -  https://github.com/Vishwa500/SOURON-MD
+➮ 📂 ʀᴇᴘᴏ -  https://github.com/Vishwa500/MICKEY-MD
 ➮ 📃 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ - ᴍᴜᴛɪᴅɪᴠᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
 ➮ 🛡️ ᴅᴇᴠᴇʟᴏᴘᴇʀ - ᴠɪꜱʜᴡᴀ ᴀɴᴅ ꜱᴀᴅᴇᴇᴘᴀ
 
 
 ━━━━━━━━━━━━━━━━━━━
-> *ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴜʙᴢᴇʀᴏ ᴜᴘᴅᴀᴛᴇs*
+> *ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴍɪᴄᴋᴇʏ-ᴍᴅ ᴜᴘᴅᴀᴛᴇs*
 
 *https://whatsapp.com/channel/0029Vaxq8k8L7UVXgIT36A2n*
 
@@ -105,7 +105,7 @@ let up = `
 *Thanks For Supporting us♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *✱╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺✱*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/Fhz6td0/b42377538197b64c.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/rmKpT0m/b5f33b137eb95e88.jpg` }, caption: up })
 
 }
 })
