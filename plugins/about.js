@@ -5,7 +5,7 @@
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "about",
-    alias: ["SOURON-MD"],
+    alias: ["MICKEY-MD"],
     react: "👑",
     desc: "get owner dec",
     category: "main",
@@ -15,7 +15,7 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁
 
-*👋 HELLO ${pushname}*\n\n *I AM SOURON-MD V1*\n\n *A MULTIDEVICE BOT 😗*\n\n *CREATED BY VISHWA AND SADEEPA*\n\n *DON'T FORGET TO ENJOY BRO😎*\n\n\n *THANK YOU.😊*
+*👋 HELLO ${pushname}*\n\n *I AM MICKEY-MD V1*\n\n *A MULTIDEVICE BOT 😗*\n\n *CREATED BY VISHWA AND SADEEPA*\n\n *DON'T FORGET TO ENJOY BRO😎*\n\n\n *THANK YOU.😊*
 
 ❁ ════ ❃•⇆•❃ ════ ❁
 
