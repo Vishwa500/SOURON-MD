@@ -20,11 +20,11 @@ let repo =`
 > *BOT OWNER:*
 *|* *𝐯𝐢𝐬𝐡𝐰𝐚 𝐚𝐧𝐝 𝐬𝐚𝐝𝐞𝐞𝐩𝐚*
 
-> *SUBZERO REPO:*
+> *SURON-MD REPO:*
 *|* *https://github.com/Vishwa500/SOURON-MD*
 
 > *SUPPORT GROUP:*
-*|* *https://whatsapp.com/channel/*
+*|* *https://whatsapp.com/channel/0029Vaxq8k8L7UVXgIT36A2n*
 *╰──────────────●●►*
 
 > *CREATED BY VISHWA AND SADEEPA*
