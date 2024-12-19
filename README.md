@@ -38,7 +38,7 @@
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb deploy-blue?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a> 
 
  <hr>
-<h5>🌸 Deploy Free Workflows 👇</h5>
+<h5>⚔ Deploy Free Workflows 👇</h5>
 
 ```
 name: Node.js CI
