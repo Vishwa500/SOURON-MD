@@ -9,7 +9,7 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------VISHWA---------------------------------------
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "WnJnQSpS#TZ_lxWme_eRsfNYsRFQCc58TUTR_oK7hMyxUuFfkuqE",
+SESSION_ID: process.env.SESSION_ID || "lWFxhRgR#LzFEvx1LozfLj3--svqyRFdx2zHScJzI-EWKaW9Y2U8",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "private",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
