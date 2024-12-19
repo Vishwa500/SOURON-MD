@@ -18,7 +18,7 @@
 <a href='https://github.com/Vishwa500/MICKEY-MD/fork' target="_blank"><img alt='fork repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://webpair-mega-1d2j.onrender.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://environmental-silvana-vishwa22-1b3577a4.koyeb.app/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
 ***
